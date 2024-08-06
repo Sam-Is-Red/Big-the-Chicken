@@ -28,5 +28,5 @@ A 3d horror game where you play as a corn kernel and get chased through a maze b
 ## Acknowledgements
 
 - [Unity](https://unity.com/)
-- Meshy AI
-- OpenGameArt.org
+- [Meshy AI](https://www.meshy.ai/)
+- [OpenGameArt.org](https://opengameart.org/)
