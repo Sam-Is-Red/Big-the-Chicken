@@ -89,7 +89,7 @@ public class ChickenPatrol : MonoBehaviour
         float randomX = UnityEngine.Random.Range(-range, range); // Adjust the range as needed
         float randomZ = UnityEngine.Random.Range(-range, range); // Adjust the range as needed
 
-        targetPosition = new Vector3(randomX + startPosX, 0.0f, randomZ + startPosZ);
+        targetPosition = new Vector3(randomX + startPosX, startPosY, randomZ + startPosZ);
     }
 
     private void MoveTowardsTarget(Vector3 targetPosition)
